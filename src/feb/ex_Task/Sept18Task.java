@@ -1,6 +1,6 @@
 package feb.ex_Task;
 
-public class Feb18Task {
+public class Sept18Task {
     //I completed previous tasks as part of ex_02272025
     public static void main(String[] args) {
         System.out.println("Type Casting");

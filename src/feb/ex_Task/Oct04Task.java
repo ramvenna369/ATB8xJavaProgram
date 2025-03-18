@@ -4,7 +4,6 @@ public class Oct04Task {
 
     public static void main(String[] args) {
 
-
         Person DK = new Person();
         Person RamaKrishna = new Person("Ram");
         Person Aravind = new Person("Aravind", 'M', 5.8f, "B.Tech", 3123456789l); //got error when first digit started with 0
@@ -14,7 +13,6 @@ public class Oct04Task {
         DK.Work();
         String s1 = RamaKrishna.nick_name;
         System.out.println(s1);
-
 
     }
 }

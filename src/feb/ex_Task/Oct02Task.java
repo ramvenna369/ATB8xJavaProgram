@@ -72,6 +72,7 @@ package feb.ex_Task;
             student4.sleep();
             student4.details();
 
+
         }
 
 }
